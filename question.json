@@ -1,0 +1,55 @@
+{
+  "id": 1,
+  "question": [
+    {
+      "title": "你制杖吗?",
+      "type": 1,
+      "choices": [
+        "是",
+        "不是"
+      ],
+      "answer": 0,
+      "value": 20
+    },
+    {
+      "title": "你贩剑吗?",
+      "type": 1,
+      "choices": [
+        "是",
+        "不是"
+      ],
+      "answer": 0,
+      "value": 20
+    },
+    {
+      "title": "你持盾吗?",
+      "type": 1,
+      "choices": [
+        "是",
+        "不是"
+      ],
+      "answer": 0,
+      "value": 20
+    },
+    {
+      "title": "我棒棒吗？",
+      "type": 1,
+      "choices": [
+        "是",
+        "不是"
+      ],
+      "answer": 0,
+      "value": 20
+    },
+    {
+      "title": "你是不是傻?",
+      "type": 1,
+      "choices": [
+        "是",
+        "不是"
+      ],
+      "answer": 0,
+      "value": 20
+    }
+  ]
+}
